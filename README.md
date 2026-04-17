@@ -17,7 +17,7 @@ El sitio ha sido optimizado meticulosamente para ofrecer una experiencia fluida 
 
 | 📑 Vista Tablet | 📱 Vista Móvil |
 | :---: | :---: |
-| ![Tablet](URL_DE_TU_FOTO_TABL) | ![Móvil](https://github.com/Lucy-nube/lawyergroup-wpcontent/blob/main/mobileversion.png?raw=true) |
+| ![Tablet](https://github.com/Lucy-nube/lawyergroup-wpcontent/blob/main/vdesktopgit.png?raw=true) | ![Móvil](https://github.com/Lucy-nube/lawyergroup-wpcontent/blob/main/mobileversion.png?raw=true) |
 
 ---
 
